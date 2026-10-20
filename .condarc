@@ -1,0 +1,6 @@
+channels:
+  - defaults
+
+pkgs_dirs:
+  - /home/niunj/data/temp/conda_pkgs
+auto_activate: false
